@@ -1,17 +1,18 @@
 === Helioviewer.org - Latest Image ===
 Contributors: keith.hughitt
 Stable tag: 0.8
-Tags: sun, solar, science, astronomy, helioviewer
+Tags: sun, solar, science, astronomy, image, widget
 Requires at least: 3.0.0
 Tested up to: 3.1.3
 
-Displays the latest image of the Sun from [Helioviewer.org](http://helioviewer.org).
+Displays the latest image of the Sun from Helioviewer.org.
 
 == Description ==
 
 This is a simple widget for displaying the most recent image of the Sun
-available on Helioviewer.org. The widget can be customized to display an image
-from one of several different data sources including SDO and SOHO.
+available on [Helioviewer.org](http://helioviewer.org). The widget can be 
+customized to display an image from one of several different data sources 
+including [SDO](http://sdo.gsfc.nasa.gov/) and [SOHO](http://sohowww.nascom.nasa.gov/).
 
 == Installation ==
 

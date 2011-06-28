@@ -1,6 +1,6 @@
 === Helioviewer.org - Latest Image ===
 Contributors: keith.hughitt
-Stable tag: trunk
+Stable tag: 0.8
 Tags: sun, solar, science, astronomy, helioviewer
 Requires at least: 3.0.0
 Tested up to: 3.1.3

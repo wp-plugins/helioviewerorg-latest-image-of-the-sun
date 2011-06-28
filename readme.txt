@@ -18,7 +18,12 @@ from one of several different data sources including SDO and SOHO.
 1. Upload `helioviewer-latest-image.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to "Appearance" => "Widgets" and add the "Helioviewer.org - Latest Image" widget.
-1. Customize as desired. 
+1. Customize as desired.
+
+== Screenshots ==
+
+1. Helioviewer.org Latest Image widget displaying the most recent image from AIA 171.
+2. Widget configuration.
 
 == Changelog ==
 
